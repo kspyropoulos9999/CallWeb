@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CallWeb/static/css/main.eca9de75.css",
+    "main.js": "/CallWeb/static/js/main.969e3562.js",
+    "static/js/787.abdd7af2.chunk.js": "/CallWeb/static/js/787.abdd7af2.chunk.js",
+    "index.html": "/CallWeb/index.html",
+    "main.eca9de75.css.map": "/CallWeb/static/css/main.eca9de75.css.map",
+    "main.969e3562.js.map": "/CallWeb/static/js/main.969e3562.js.map",
+    "787.abdd7af2.chunk.js.map": "/CallWeb/static/js/787.abdd7af2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eca9de75.css",
+    "static/js/main.969e3562.js"
+  ]
+}
